@@ -2,13 +2,12 @@
 
 This repository gathers code and data related to an ongoing project that focus on understanding current outbreaks of Zika virus (ZIKV) in India.
 
-
+<!---
 ## Authors
 
 * **Nathan Grubaugh** - [WebPage](https://http://grubaughlab.com//) - grubaughlab@gmail.com
 * **Anderson Brito** - [WebPage](https://andersonbrito.github.io/) - andersonfbrito@gmail.com
 
-<!---
 
 ## Getting Started
 
